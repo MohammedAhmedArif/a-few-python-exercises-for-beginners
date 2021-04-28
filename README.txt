@@ -13,3 +13,8 @@
 13- calculating the factorial of a given integer
 14- sum and average of evens and odds
 15- displaying triangle 
+16- reversing list
+17- date time now
+18- modifying text
+19- converting lists to tuples then sets
+20- Class
